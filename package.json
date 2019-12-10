@@ -1,0 +1,22 @@
+{
+  "name": "sd_front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyronIsDemate/SD_Front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyronIsDemate/SD_Front/issues"
+  },
+  "homepage": "https://github.com/TyronIsDemate/SD_Front#readme",
+  "dependencies": {
+    "start": "^5.1.0"
+  }
+}
